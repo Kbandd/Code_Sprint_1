@@ -1,0 +1,27 @@
+What went well this sprint?
+
+- User Authentication: Successfully implemented a secure user authentication system using OAuth.
+UI Development: Designed and developed the main user interface with a navigation and responsive design.
+Backend Setup: Completed the backend server setup and defined the necessary API endpoints.
+Testing: Conducted ppre-alpha testing and identified some minor issues which were addressed and fixed.
+Documentation: Updated project documentation with a more detailed setup instructions and API documentation.
+
+- What did not go well for this sprint?
+Backend Delays: Setting up the backend server took longer than expected due to bad or unseen configuration issues.
+API Complexity: Defining and implementing the API endpoints proved to be more complex than anticipated, this caused a leading to delays.
+Resource Constraints/Limitations: Limited availability of team members/coders for testing and code reviews.
+
+- Did you complete the tasks you planned to complete?
+Yes, we completed most of the planned tasks, but the backend setup and API endpoint definition took longer than anticipated.
+
+- Did you experience any unforeseen technical issues that prevented your progress? Please describe them.
+Backend Configuration Issues: Encountered compatibility and configuration issues with the chosen backend framework.
+API Complexity: Some of the API endpoints required additional logic and data validation which was not initially planned.
+Resource Constraints: Limited availability of team members for testing and code reviews due to other commitments.
+
+- Do you feel you are on-track to complete your project? If no:
+Yes, we are mostly on-track, but the delays in backend setup and API development are concerning.
+
+- How do you plan to change your development process, and why?
+We plan to allocate more time for backend development and testing in the upcoming sprints to ensure completion.
+We plan to also Enhance collaboration and communication within the team to address issues more efficiently and reduce delays.
